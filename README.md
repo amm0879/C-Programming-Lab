@@ -8,3 +8,12 @@ This is my first repository
 - Java
 * C
 - C++
+# My Introduction
+**Ammar Rizwan**\
+*Studies in Fast*\
+~Studies in Nust~\
+`git commit`
+## To-Do
+- [x] PF Lab Tasks
+- [ ] Applied Physics Practice Questions
+- [ ] Islamiat Quiz Preparation 
